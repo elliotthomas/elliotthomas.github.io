@@ -14,3 +14,7 @@ p {
   border-width: 1px;
   line-height: 0.5;
 }
+
+.current address p {
+  margin-bottom:2px;
+}
