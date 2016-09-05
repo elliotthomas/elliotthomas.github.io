@@ -6,6 +6,10 @@ p {
   color:black;
 }
 
+h3{
+  text-decoration:underline;
+}
+
 #header{
   line-height:0.5px;
 }
