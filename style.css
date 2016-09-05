@@ -16,3 +16,6 @@ p {
   line-height: 0.5;
 }
 
+.per address{
+  float:right;
+}
