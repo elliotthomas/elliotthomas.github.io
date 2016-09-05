@@ -10,6 +10,10 @@ h3{
   text-decoration:underline;
 }
 
+h6{
+  font-style:italic;
+}
+
 #header{
   line-height:0.5px;
 }
