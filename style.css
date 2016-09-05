@@ -7,3 +7,9 @@ p {
   font-size:32px;
   font-family:lato, sans-serif;
 }
+
+#header {
+  border-bottom-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
