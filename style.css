@@ -1,3 +1,7 @@
+html * {
+  font-family:Arial, sans-serif;
+}
+
 p {
   color:black;
   line-height:4px;
