@@ -21,9 +21,11 @@ p {
 }
 
 .ca{
+  float:left;
   clear:left;
 }
 
 .pa {
+  float:right;
   clear:right;
 }
