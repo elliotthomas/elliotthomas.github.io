@@ -6,6 +6,10 @@ p {
   color:black;
 }
 
+#header{
+  line-height:0.5px;
+}
+
 #name {
   text-align:center;
   font-size:32px;
