@@ -20,6 +20,10 @@ h5{
   line-height: 0.5px;
 }
 
+li{
+  margin-right:100px;
+}
+
 #header{
   line-height:0.5px;
 }
