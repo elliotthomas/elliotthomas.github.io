@@ -1,7 +1,9 @@
 p {
-  color:red;
+  color:black;
 }
 
 #name {
   text-align:center;
+  font-size:32px;
+  font-family:lato, sans-serif;
 }
