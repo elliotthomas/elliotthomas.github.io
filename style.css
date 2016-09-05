@@ -1,5 +1,6 @@
 p {
   color:black;
+  line-height:12px;
 }
 
 #name {
@@ -15,6 +16,3 @@ p {
   line-height: 0.5;
 }
 
-.current address p {
-  margin-bottom:2px;
-}
