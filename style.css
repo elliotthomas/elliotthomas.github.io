@@ -35,11 +35,8 @@ li{
   font-family:lato, sans-serif;
 }
 
-#container {
-  display:inline;
-  border-bottom-style: solid;
-  border-top-style:solid;
-  border-width: 1px;
+.container {
+  float:left;
 }
 #ca{
   width: 1100px;
