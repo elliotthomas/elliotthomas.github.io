@@ -38,6 +38,10 @@ li{
 .container {
   float:left;
 }
+
+#container{
+  display:inline;
+}
 #ca{
   width: 1100px;
 }
