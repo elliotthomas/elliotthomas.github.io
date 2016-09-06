@@ -20,6 +20,10 @@ h5{
   line-height: 0.5px;
 }
 
+img {
+  align=center
+}
+
 li{
   margin-right:200px;
 }
