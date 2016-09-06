@@ -33,14 +33,14 @@ li{
   text-align:center;
   font-size:12px;
   font-style:Italic;
-  padding-top:0px;
+  padding-top:-0.5px;
 }
 
 #name {
   text-align:center;
   font-size:32px;
   font-family:lato, sans-serif;
-  padding-top:0px;
+  padding-top:-0.5px;
   text-decoration:underline;
 }
 
