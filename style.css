@@ -36,7 +36,7 @@ li{
 }
 
 #container {
-  display:inline;
+  display:block;
   margin: 0 1em 0 1em;
   width:30%;
   border-bottom-style: solid;
