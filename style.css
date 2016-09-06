@@ -31,6 +31,9 @@ li{
 
 #addy{
   text-align:center;
+  font-size:12px;
+  font-style:Italic;
+  line-height:0.5px;
 }
 
 #name {
