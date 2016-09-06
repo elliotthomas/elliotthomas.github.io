@@ -36,12 +36,9 @@ li{
 }
 
 .container {
-  float:left;
+  display:inline-block;
 }
 
-#container{
-  display:inline;
-}
 #ca{
   width: 1100px;
 }
