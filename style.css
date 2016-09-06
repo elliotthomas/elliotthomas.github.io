@@ -41,12 +41,12 @@ li{
 }
 
 #container {
+  float:left;
   border-bottom-style: solid;
   border-top-style:solid;
   border-width: 1px;
 }
 #ca{
-  float:left;
   width: 1100px;
 }
 
