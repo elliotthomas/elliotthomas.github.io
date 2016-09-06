@@ -37,8 +37,6 @@ li{
 
 #container {
   display:inline;
-  margin: 0 1em 0 1em;
-  width:30%;
   border-bottom-style: solid;
   border-top-style:solid;
   border-width: 1px;
