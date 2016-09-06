@@ -29,6 +29,10 @@ li{
   line-height:0.5px;
 }
 
+#addy{
+  text-align:center;
+}
+
 #name {
   text-align:center;
   font-size:32px;
