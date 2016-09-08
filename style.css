@@ -6,6 +6,10 @@ p {
   color:black;
 }
 
+body{
+  background-color:#e6e6e6;
+}
+
 h3{
   text-decoration:underline;
 }
