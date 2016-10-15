@@ -12,6 +12,8 @@ body{
 
 h3{
   text-decoration:underline;
+  border-top-style:solid;
+  
 }
 
 h4 {
