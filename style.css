@@ -61,6 +61,7 @@ img {
 #profile {
   border-top-style:solid;
   padding-top:10px;
+  border-width:2px;
 }
 
 .container {
