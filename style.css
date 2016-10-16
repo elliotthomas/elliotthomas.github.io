@@ -32,6 +32,10 @@ li{
   margin-right:200px;
 }
 
+img {
+  border-radius:5px;
+}
+
 #header{
   line-height:0.5px;
 }
