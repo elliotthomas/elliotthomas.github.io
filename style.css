@@ -41,6 +41,7 @@ li{
   font-size:12px;
   font-style:Italic;
   padding-top:-0.5px;
+  border:2px solid;
 }
 
 #name {
